@@ -1,0 +1,11 @@
+{
+    "name": "Save Link",
+    "version": "0.0",
+    "manifest_version": 3,
+    "icons": {},
+    "action": {
+        "default_popup":"index.html"
+    },
+    "permissions": ["activeTab", "storage"],
+    "background": {}
+}
